@@ -4,7 +4,7 @@ This App show you list and information about FootballTeam of PremierLeague
 ## Screenshoot
 ![](screenshot/img1.jpg)   ![](screenshot/img2.jpg)   ![](screenshot/img3.jpg)
 
-# this app used
+# Used
 * Pattern MVP ( Model View Presenter) and Repository Pattern
 * Retrofit
 * Room
