@@ -6,6 +6,7 @@ This App show you list and information about FootballTeam of PremierLeague
 
 # Used
 * Pattern MVP ( Model View Presenter) and Repository Pattern
-* Retrofit
+* Retrofit2
 * Room
+* Butterknife
 * API -> [API FootballTeam](https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League)
